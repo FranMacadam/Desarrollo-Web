@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #232128;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+nav.navbar .navbar-brand img {
+  height: 80px;
+}
+
+nav.navbar .navbar-nav {
+  margin-left: auto;
+}
+
+.textSec4 {
+  text-decoration: underline;
+  padding: 0 20% 0 20%;
+}
+
+.redes1 {
+  width: 25%;
+  height: 20%;
+}
+
+.beIn {
+  padding: 0 20% 0 20%;
+  margin: -1rem 0 0 0;
+}/*# sourceMappingURL=estilos.css.map */
